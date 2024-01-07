@@ -1,13 +1,15 @@
 <h1 align="center">Hola 👋, soy Víctor Del Castillo</h1>
 <h3 align="center">Un apasionado desarrollador web de Perú</h3>
-<p style="text-align: justify; font-size: 16px line-height: 1.5">
-Magíster en Dirección de Empresas (MBA) y Ingeniero en Computación y Sistemas, con sólida experiencia en Gestión de Indicadores y trabajo de metas en base a equipos de desarrollo. Poseo un carácter dinámico y entusiasta, siendo una persona íntegra y honesta. Mi probada habilidad se refleja en la capacidad para ofrecer altos niveles de desempeño laboral, respaldada por mi experiencia.
+<p style="text-align: justify">
+¡Hola, soy Victor Del Castillo! 👋
+
+Ingeniero en Computación y Sistemas con Maestría en Dirección de Empresas (MBA), con sólida experiencia en Gestión de Indicadores y trabajo de metas en base a equipos de desarrollo. Poseo un carácter dinámico y entusiasta, siendo una persona íntegra y honesta. Mi probada habilidad se refleja en la capacidad para ofrecer altos niveles de desempeño laboral, respaldada por mi experiencia.
 
 Recientemente he fortalecido mi conjunto de habilidades a través del bootcamp de Henry, emergiendo como un desarrollador Full Stack. Ahora domino tecnologías clave como 👨‍💻 💻 JavaScript, Node.js, React, Redux, Express, Sequelize, PostgreSQL, Vite, HTML, CSS 💻 👨‍💻 y estoy familiarizado con prácticas esenciales como Git/GitHub y la metodología ágil Scrum. Este enfoque polifacético se suma a mi capacidad de liderazgo y completa mi perfil con un nivel intermedio de inglés.
 
 Mi capacidad para liderar equipos y mi nueva destreza como desarrollador Full Stack se combinan a la perfección para abordar desafíos en el mundo del desarrollo web. ¡Soy la combinación de "código y café" que tu equipo necesita!
 
-Si estás buscando a alguien que combine habilidades técnicas con un sentido del humor, ¡soy tu persona! Puedes contactarme a través de mi correo electrónico ✉ ing.vitidelcastillo@gmail.com o visitar mi perfil de Linkedin 🐿 https://www.linkedin.com/in/victor-javier-del-castillo-holguin.
+Si estás buscando a alguien que combine habilidades técnicas con un sentido del humor, ¡soy tu persona! Además, fuera del mundo digital, me apasiona la actividad deportiva, siendo un ex profesional de Futbol. Puedes contactarme a través de mi correo electrónico ✉ ing.vitidelcastillo@gmail.com o visitar mi perfil de GitHub 🐿 https://github.com/VDelCastilloH para ver mis proyectos. ¡Espero poder aportar tanto en el código como en el campo! ⚽🚀
 </p>
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=vdelcastilloh&label=Profile%20views&color=0e75b6&style=flat" alt="vdelcastilloh" /> </p>
 
